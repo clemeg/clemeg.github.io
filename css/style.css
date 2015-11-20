@@ -1244,3 +1244,8 @@
 	body.is-touch .poptrox-popup .closer {
 		opacity: 1.0 !important;
 	}
+
+/* Thank you form */
+	#thanks {
+		padding: 8em 35% 4em 35%;
+	}
