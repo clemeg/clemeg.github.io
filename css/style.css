@@ -931,7 +931,7 @@
 /* Header */
 
 	#header {
-		background-color: #1f1815;
+		background-color: #000525;
 		background-attachment: scroll,								fixed;
 		background-image: url("images/overlay.png"), url("../images/bg.jpg");
 		background-position: top left,							top left;
@@ -1243,4 +1243,9 @@
 	body.is-touch .poptrox-popup .nav-previous,
 	body.is-touch .poptrox-popup .closer {
 		opacity: 1.0 !important;
+	}
+
+/* Thank you form */
+	#thanks {
+		padding: 8em 35% 4em 35%;
 	}
